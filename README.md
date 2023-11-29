@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shinchan25
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning fronted part of web development
+- 👋 Hi, I’m Aditi Jha
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning Javascript..
 - 💞️ I’m looking to collaborate on any startup's
 - 📫 How to reach me email:- aditijhaaj@217@gmail.com
 
